@@ -1,0 +1,11 @@
+C:\Projects\MapGameCore\MapGameCore\bin\Debug\netcoreapp2.0\MapGameCore.deps.json
+C:\Projects\MapGameCore\MapGameCore\bin\Debug\netcoreapp2.0\MapGameCore.runtimeconfig.json
+C:\Projects\MapGameCore\MapGameCore\bin\Debug\netcoreapp2.0\MapGameCore.runtimeconfig.dev.json
+C:\Projects\MapGameCore\MapGameCore\bin\Debug\netcoreapp2.0\MapGameCore.dll
+C:\Projects\MapGameCore\MapGameCore\bin\Debug\netcoreapp2.0\MapGameCore.pdb
+C:\Projects\MapGameCore\MapGameCore\obj\Debug\netcoreapp2.0\MapGameCore.csprojResolveAssemblyReference.cache
+C:\Projects\MapGameCore\MapGameCore\obj\Debug\netcoreapp2.0\MapGameCore.csproj.CoreCompileInputs.cache
+C:\Projects\MapGameCore\MapGameCore\obj\Debug\netcoreapp2.0\MapGameCore.AssemblyInfoInputs.cache
+C:\Projects\MapGameCore\MapGameCore\obj\Debug\netcoreapp2.0\MapGameCore.AssemblyInfo.cs
+C:\Projects\MapGameCore\MapGameCore\obj\Debug\netcoreapp2.0\MapGameCore.dll
+C:\Projects\MapGameCore\MapGameCore\obj\Debug\netcoreapp2.0\MapGameCore.pdb
